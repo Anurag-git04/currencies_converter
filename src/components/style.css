@@ -1,0 +1,10 @@
+.dinn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.newImage{
+    width: 700px;
+    /* height: 50px; */
+    margin-left: 600px;
+}
